@@ -2,7 +2,7 @@
 OSS Assignment 4 - Contributing to Open Source Software
 
 ## Project Description
-This project is to identify the type of number i.e., odd, even, prime, palindrome, fasinating, Armstrong etc.
+This project is to identify the type of number i.e. prime, palindrome, fasinating, Armstrong etc.
 
 ## Prime Number
 A number that is divisible only by itself and 1 (e.g. 2, 3, 5, 7, 11).
