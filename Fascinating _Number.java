@@ -8,7 +8,7 @@ Scanner sc=new Scanner(System.in);
 System.out.print("Enter any Number: ");  
 num = sc.nextInt();  
 n2 = num * 2;  
-n3 = num * 4;
+n3 = num * 3; //Corrected the multiplication factor.
   
 //concatenating num, n2, and n3  ***
 String concatstr = num + "" + n2 + n3;  
