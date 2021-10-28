@@ -16,3 +16,6 @@ An Armstrong number is a positive m-digit number that is equal to the sum of the
 
 ## Fasinating Number
 Multiplying a number by two and three separately, the number obtained by writing the results obtained with the given number will be called a fascinating number. If the result obtained after concatenation contains all digits from 1 to 9, exactly once.
+
+## Factorial of a Number
+The factorial of a number is the function that multiplies the number by every natural number below it. Symbolically, factorial can be represented as "!". So, n factorial is the product of the first n natural numbers and is represented as n!.
