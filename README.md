@@ -1,8 +1,8 @@
 # OSS_Assignment4_Group34
 OSS Assignment 4 - Contributing to Open Source Software
 
-##Contributors to this projects
-- Y V Srinivasarao
+## Contributors to this projects
+- Y V S Srinivasarao
 contributions: Main project, Prime Number Readme.md, index page for project
 - Natru Raghavendrarao
 contributions: Palindrome, Factorial number
