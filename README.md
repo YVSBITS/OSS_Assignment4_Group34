@@ -1,6 +1,14 @@
 # OSS_Assignment4_Group34
 OSS Assignment 4 - Contributing to Open Source Software
 
+##Contributors to this projects
+- Y V Srinivasarao
+contributions: Main project, Prime Number Readme.md, index page for project
+- Natru Raghavendrarao
+contributions: Palindrome, Factorial number
+- Ramisetti Vijaya Bhaskar 
+contributions : Armstrong number, Fasinating number
+
 ## Project Description
 This project is to identify the type of number i.e. prime, palindrome, fasinating, Armstrong etc.
 
